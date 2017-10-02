@@ -1,7 +1,7 @@
 ---
 layout: default
-title:Mercadeo
-permalink: /Mercadeo/Mercadeo
+title: Mercadeo
+permalink: /Mercadeo/
 editable: si
 ---
 
